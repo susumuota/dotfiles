@@ -1,3 +1,4 @@
+#!/bin/sh
 
 rsync \
   --exclude=".git/" \
