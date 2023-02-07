@@ -2,7 +2,7 @@
 escape ^Jj
 
 # set scrollback
-defscrollback 1000000
+defscrollback 1000
 
 # Delete start up screen
 startup_message off
